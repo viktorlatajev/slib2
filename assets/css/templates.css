@@ -1,0 +1,55 @@
+div.mod-languages ul {
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+div.mod-languages li {
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+div.mod-languages ul.lang-inline li {
+	display:inline;
+}
+
+div.mod-languages ul.lang-block li {
+	display:block;
+}
+
+div.mod-languages img {
+	border:none;
+}
+
+div.mod-languages a {
+	text-decoration: none;
+}
+
+/*2*/
+
+div.mod-languages2 ul {
+	margin: 0;
+	padding: 0;
+	list-style:none;
+}
+div.mod-languages2 li {
+	margin-left: 0.5px;
+	margin-right: 0.5px;
+}
+
+div.mod-languages2 ul.lang-inline li {
+	display:inline;
+}
+
+div.mod-languages2 ul.lang-block li {
+	display:block;
+}
+
+div.mod-languages2 img {
+	border:none;
+}
+
+div.mod-languages2 a {
+	text-decoration: none;
+}
+
+
